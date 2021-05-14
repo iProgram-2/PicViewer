@@ -1,0 +1,10 @@
+D:\PicViewer\PicViewer\bin\Debug\PicViewer.exe.config
+D:\PicViewer\PicViewer\bin\Debug\PicViewer.exe
+D:\PicViewer\PicViewer\bin\Debug\PicViewer.pdb
+D:\PicViewer\PicViewer\obj\Debug\PicViewer.csprojAssemblyReference.cache
+D:\PicViewer\PicViewer\obj\Debug\PicViewer.PicViewer.resources
+D:\PicViewer\PicViewer\obj\Debug\PicViewer.Properties.Resources.resources
+D:\PicViewer\PicViewer\obj\Debug\PicViewer.csproj.GenerateResource.cache
+D:\PicViewer\PicViewer\obj\Debug\PicViewer.csproj.CoreCompileInputs.cache
+D:\PicViewer\PicViewer\obj\Debug\PicViewer.exe
+D:\PicViewer\PicViewer\obj\Debug\PicViewer.pdb
